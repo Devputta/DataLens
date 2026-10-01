@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix DataLens",
+  "description": "Real-time analytics and data visualization platform with interactive dashboards, automated reporting, and dataset profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
